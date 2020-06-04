@@ -102,7 +102,7 @@ To test the code we need to do the following:
 **Note**: The boundary boxes are color coded:
 
     1. Aditya Solanki  : Yellow
-    2. Ben Afflek      : Blue   
+    2. Ben Affleck      : Blue   
     3. Elton John      : Green
     4. Jerry Seinfield : Red
     5. Madonna         : Aqua
